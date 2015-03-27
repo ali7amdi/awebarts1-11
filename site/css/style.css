@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{ background:#282828;}
+#wrapper{ width:1100px; padding:0 50px; min-height:400px; margin:0 auto; background:#fff}
+
+#header { height:235px; width:1150px; background:url(../images/header_bg.jpg) top right no-repeat;}
+
+#logo{ padding-top:67px;}
+#logo img{ width:285px; height:118px;}
+
+#menu{ width:1100px; height:40px; background:url(../images/menu_bg.png) no-repeat;}
+#menu ul{ float:left;}
+#menu ul li{ float:left; min-width:90px; padding:0 15px; line-height:40px;}
+#menu ul li a{ text-decoration:none; color:#fff; font-size:14px; font-family:Verdana, Geneva, sans-serif;}
+
+#menu h1{ line-height:40px; color:#fff;font-size:14px; font-family:Verdana, Geneva, sans-serif; margin-left:60px; float: left;}
+
+#slinks{ float:right; margin-right:15px;}
+#slinks h1{ margin-right:20px;}
+#slinks img{ margin-left:5px;}
+
+#contents{ width:1100px; clear:both; min-height:300px;}
+
+#sidebsr{ width:270px; float:left; min-height:200px;}
+.side{ width:270px; background:url(../images/side_bg.png) repeat-y; min-height:200px; padding-top:20px;}
+.side_head{ width:270px; height:55px; background:url(../images/head_side.png) no-repeat; text-align:center;}
+
+.side h1{ color:#FFF; font-family:Verdana, Geneva, sans-serif; font-size:16px; font-weight:bold; line-height:40px;}
+
+.side_body{}
+.side_body ul{ padding:5px; padding-left:45px;}
+.side_body ul li{ list-style-image:url(../images/arrow.png);}
+.side_body ul li a{ text-decoration:none; color:#000; font-family:Verdana, Geneva, sans-serif; font-size:15px; line-height:20px;}
+
+.side form{ text-align:center;}
+.side input[type="text"]{ width:185px; height:15px; margin-bottom:10px; padding:5px;}
+.side input[type="submit"]{ width:124px; height:25px; background-color:#333; color:#f5f4f4; border:0; border-radius:5px;}
+
+#conts{ width:810px; min-height:300px; float:right;}
+#slider{ width:810px; height:330px; background:url(../images/slider_bg.jpg) no-repeat;}
+
+#latestprojects{ margin-top:20px;}
+#latestprojects h1{ font-family:Verdana, Geneva, sans-serif; color:#cb0030; font-size:17px; margin-bottom:20px;}
+
+.project{ width:395px; height:100px; float:left; margin-bottom:15px; line-height:20px;}
+.project:nth-child(even){ margin-right:20px;}
+
+.project img{ float:left; margin-right:10px;}
+.project h2{ font-family:Verdana, Geneva, sans-serif; color:#282828; font-size:14px;}
+.project p{font-family:Verdana, Geneva, sans-serif; color:#282828; font-size:12px; text-align:justify;}
+.project a{font-family:Verdana, Geneva, sans-serif; color:#cb0030; font-size:12px; float:right;}
+
+#footer{ margin-left:-50px; width:1150px; height:350px; background:url(../images/footer.png) no-repeat top; margin-top:30px; clear:both; padding-top:100px; padding-left:50px;}
+
+#send{ width:257px; min-height:200px; float:left}
+#send input[type="text"]{ width:247px; height:15px; background:#f0f0f0; border:0; border-radius:5px; margin-bottom:10px; padding:5px}
+#send textarea{ width:247px; padding:5px; height:90px; background:#f0f0f0; border-radius:5px;}
+#send input[type="submit"]{ width:165px; height:30px;background:#f0f0f0; border:0; border-radius:5px; margin-top:10px;}
+
+#contacts{ float:right; font-family:Verdana, Geneva, sans-serif; color:#fff; width:580px; font-size:14px;}
+#contacts a{ text-decoration:none; color:#fff;}
+#contacts img{ float:left; margin-right:15px;}
+#contacts div{ float:left}
+
+
+
+
+
+

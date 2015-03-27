@@ -1,0 +1,25 @@
+/*
+awebarts :: Content Management system (CMS)
+PHP -> OOP -> MVC -> MySQL
+*/
+
+###################################################
+## awebarts :: Content Management system (CMS):: ##
+###################################################
+	
+	Database
+	
+	Registration / Login / Log Out
+	Users Management (Add / Edit / Delete)
+
+	File upload
+	Liberary (Images / Videos)
+	
+	Site Contents::
+		Sections
+		Pages (Add / Edit / Delete)
+	
+	Comments
+
+	Newsletter
+	Mail Center
